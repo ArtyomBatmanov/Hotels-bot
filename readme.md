@@ -10,9 +10,9 @@
  - Склонируйте репозиторий в папку проекта https://github.com/ArtyomBatmanov/Hotels-bot.git
  - Установите необходимые библиотеки командой "pip install -r requirements.txt"
  - Создайте файл .env и добавьте в него переменные окружения, следующего вида:
-   BOT_TOKEN = "Ваш токен для бота, полученный от @BotFather"
-   RAPID_API_KEY = "Ваш ключ полученный от API по адресу rapidapi.com/apidojo/api/hotels4/"
-   DB_NAME= "db.sqlite3"
+BOT_TOKEN= "ваш бот токен"
+RAPID_API_KEY= "ваш rapid_api key"
+DB_NAME= "database/db.sqlite3"
  - Запустите бота командой "python main.py"
 
 ## Описание работы команд
