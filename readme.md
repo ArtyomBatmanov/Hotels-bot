@@ -9,7 +9,7 @@
 
  - Склонируйте репозиторий в папку проекта https://github.com/ArtyomBatmanov/Hotels-bot.git
  - Установите необходимые библиотеки командой "pip install -r requirements.txt"
- - Создайте файл .env и добавьте в него переменные окружения, следующего вида:
+ - создать файл .env вида:
 BOT_TOKEN= "ваш бот токен"
 RAPID_API_KEY= "ваш rapid_api key"
 DB_NAME= "database/db.sqlite3"
